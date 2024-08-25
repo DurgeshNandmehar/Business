@@ -1,0 +1,576 @@
+@media screen and (max-width:1024px) {
+    .start-col2 img {
+        width: 90%;
+    }
+
+    .choose-card-col1 {
+        width: 60%;
+    }
+
+    .intro-col1 {
+        width: 48%;
+    }
+
+    .row {
+        gap: 45px;
+    }
+
+    .intro-col1 p {
+        width: 100%;
+    }
+
+    .intro-col2 img {
+        width: 100%;
+    }
+
+    .card-texts p {
+        font-size: 1rem;
+    }
+
+    .ti-card img {
+        height: 400px;
+    }
+
+    .just-col1 h1 {
+        width: 80%;
+    }
+
+    .have-form {
+        width: 60%;
+    }
+
+    .why-choose-cards .card h1 {
+        margin-top: 0px
+    }
+
+    .address-row {
+        gap: 20px;
+    }
+
+    .bol {
+        top: 70%;
+    }
+
+    .bol1 {
+        left: 40%;
+    }
+
+    .course-row {
+        gap: 20px;
+    }
+
+    .course-bol {
+        width: 120px;
+        height: 120px;
+        top: 1%;
+        left: 20%;
+    }
+
+    .intro-bol {
+        top: 78%;
+    }
+
+    .intro-bol1 {
+        left: 80%;
+    }
+
+    .intro-bol2 {
+        left: 100%;
+    }
+
+    .have-bol1 {
+        left: -2%;
+    }
+
+    .have-bol2 {
+        left: 85%;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+
+    .container {
+        padding: 25px;
+    }
+
+    .course-container {
+        padding: 20px 25px;
+    }
+
+    #logo {
+        width: 40px;
+        height: 40px;
+        padding: 8px;
+    }
+
+    .start-col-text h1 {
+        font-size: 2.75rem;
+    }
+
+    .start-link-buttons {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .start-see-button {
+        margin-bottom: 20px;
+    }
+
+    .start-col-image img {
+        height: 65%;
+    }
+
+    .choose-card {
+        flex-wrap: wrap;
+    }
+
+    .choose-card-col {
+        width: 100%;
+    }
+
+    .choose-buy-card {
+        width: 40%;
+    }
+
+    .choose-card-col2 {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .course-row {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .course-card {
+        width: calc(50% - 54px);
+    }
+
+    .intro-col1 h1 {
+        font-size: 2.25rem;
+    }
+
+    .intro-col1 {
+        width: 44%;
+    }
+
+    .intro-col2 img {
+        width: 80%;
+    }
+
+    .intro-col2 {
+        width: 45%;
+        display: flex;
+        align-items: center;
+    }
+
+    .why-col h1 {
+        font-size: 2.5rem;
+    }
+
+    .student-columns {
+        flex-wrap: wrap;
+    }
+
+    .student-column {
+        width: calc(50% - 14px);
+    }
+
+    .get-col1 h1 {
+        font-size: 2.3rem;
+    }
+
+    .why-cards .card {
+        width: 100%;
+    }
+
+    .student-column3 {
+        width: 100%;
+    }
+
+    .just-col1 h1 {
+        width: 100%;
+        font-size: 2.2rem;
+    }
+
+    .have-form {
+        width: 80%;
+    }
+
+    .have-col h1 {
+        font-size: 2.2rem;
+    }
+
+    .student-col h1 {
+        font-size: 2.2rem;
+    }
+
+    .start-col1 h1 {
+        font-size: 3rem;
+    }
+
+    .start-col2 img {
+        width: 90%;
+        height: 270px;
+    }
+
+    .our-button {
+        margin-top: 20px;
+    }
+
+    .why-choose-cards {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .why-choose-cards .card {
+        width: calc(50% - 54px);
+    }
+
+    .why-choose-col>h1 {
+        font-size: 2.5rem;
+    }
+
+    .email,
+    .mobile {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .email img {
+        margin-bottom: 20px;
+    }
+
+    .go-top {
+        font-size: 2rem;
+        left: 93%;
+    }
+
+    .bol {
+        top: 53%;
+    }
+
+    .bol1 {
+        left: 5%;
+    }
+
+    .bol2 {
+        left: 40%;
+    }
+
+    .course-bol {
+        top: -4%;
+        left: 29%;
+    }
+
+    .intro-bol {
+        top: 72%;
+    }
+
+    .intro-bol1 {
+        left: 50%;
+    }
+
+    .intro-bol2 {
+        left: 70%;
+    }
+
+    .student-image3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .student-image3 img {
+        width: 50%;
+    }
+
+    .have-bol {
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .have-bol1 {
+        top: 0%;
+        left: 3%;
+    }
+
+    .have-bol2 {
+        left: 82%;
+        top: 1%;
+    }
+}
+
+@media screen and (max-width: 680px) {
+
+    .nav-bar {
+        position: fixed;
+        z-index: 1;
+        transition: all 0.3s ease;
+    }
+
+    /* left navbar  */
+    .nav-bar {
+        background-color: black;
+        left: -100rem;
+        top: 68px;
+        width: 50%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .open-mobile-nav {
+        left: 0;
+    }
+
+    .nav-bar ul {
+        margin-top: 65px;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-bar ul li {
+        margin: 6px 0px;
+    }
+
+    .nav-bar ul li a {
+        color: white;
+        font-size: 1.1rem;
+        font-weight: 500;
+    }
+
+    /* Open Right Nav  */
+    .open-mobile-nav {
+        right: 0;
+    }
+
+
+    .start-row {
+        flex-wrap: wrap;
+    }
+
+    header {
+        justify-content: space-between;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    .start-col1 h1 {
+        font-size: 2.25rem;
+    }
+
+    .start-col2 img {
+        width: 100%;
+    }
+
+    .course-row {
+        flex-wrap: wrap;
+    }
+
+    .choose-buy-card {
+        width: 100%;
+    }
+
+    .choose-card-col1 {
+        text-align: center;
+    }
+
+    .choose-col>h1 {
+        font-size: 1.500rem;
+    }
+
+    .choose-card-col1 h3 {
+        font-size: 1.5rem;
+    }
+
+    .choose-card-col1 p {
+        font-size: 1rem;
+        width: 100%;
+    }
+
+    .choose-card-col {
+        padding: 10px
+    }
+
+    .course-card {
+        width: 100%;
+    }
+
+    .course-card h3 {
+        font-size: 1.5rem;
+    }
+
+    .row {
+        flex-wrap: wrap;
+    }
+
+    .intro-col1 {
+        width: 100%;
+        text-align: center;
+        padding: 11px;
+    }
+
+    .intro-col1 h1 {
+        font-size: 1.5rem;
+    }
+
+    .intro-col1 p {
+        font-size: 1rem;
+    }
+
+    .intro-col2 {
+        width: 85%;
+    }
+
+    .why-col h1 {
+        font-size: 1.5rem;
+    }
+
+    .get-col1 h1 {
+        font-size: 1.6rem;
+    }
+
+    .student-column {
+        width: 100%;
+    }
+
+    .just-col1 h1 {
+        width: 80%;
+        font-size: 1.5rem;
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+
+    .have-form {
+        width: 100%;
+    }
+
+    .have-col h1 {
+        font-size: 1.5rem;
+    }
+
+    .student-col h1 {
+        font-size: 1.5rem;
+    }
+
+    .footer-col .text {
+        margin-bottom: 50px;
+    }
+
+    .website-link {
+        display: inline-block;
+        margin-top: 40px;
+    }
+
+    .why-choose-cards .card {
+        width: 100%;
+    }
+
+    .why-choose-col {
+        text-align: center;
+    }
+
+    .why-choose-col>h1 {
+        font-size: 1.8rem;
+    }
+
+    .why-choose-col>p {
+        font-size: 1rem;
+    }
+
+    .why-choose-cards .card h1 {
+        font-size: 1.6rem;
+    }
+
+    .address-col {
+        width: 100%;
+    }
+
+    .go-top {
+        font-size: 2rem;
+        left: 85%;
+    }
+
+    .student-image3 img {
+        width: 100%;
+    }
+
+    .start-col2 {
+        padding-bottom: 105px;
+    }
+
+    .bol {
+        position: absolute;
+        top: 60%;
+    }
+
+    .bol1 {
+        left: 10%;
+    }
+
+    .bol2 {
+        left: 50%;
+    }
+
+    .course-bol {
+        left: 58%;
+        top: -5px;
+        width: 100px;
+        height: 100px;
+        font-size: 2rem;
+    }
+
+    .intro-bol {
+        top: 72%;
+    }
+
+    .intro-bol1 {
+        left: 40%;
+    }
+
+    .intro-bol2 {
+        left: 60%;
+    }
+
+    .have-bol1 {
+        left: -1%;
+    }
+
+    .have-bol2 {
+        left: 67%;
+        top: 2%;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .container {
+        padding: 25px 2px;
+    }
+
+    .intro-col2 {
+        width: 100%;
+    }
+
+    .address-contact h5 {
+        font-size: 1rem;
+    }
+
+    .course-container {
+        padding: 35px 0px;
+    }
+
+    .row p {
+        font-size: 16px;
+    }
+
+    .row a {
+        font-size: 14px;
+    }
+}

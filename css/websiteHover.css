@@ -1,0 +1,54 @@
+header a:hover {
+    color: #f0974f;
+}
+
+.see-button:hover {
+    background-color: #6f3ec3;
+}
+
+.freepik-link:hover{
+    color: #6f3ec3;
+}
+
+.our-button:hover {
+    border-color: black;
+}
+
+.choose-buynow-button:hover {
+    background-color: #f2852d;
+}
+
+.readmore-button:hover {
+    border-color: #8a5cd9;
+    color: #8a5cd9;
+}
+
+.intro-contact-button:hover {
+    border-color: #8a5cd9;
+}
+
+#submit-button:hover {
+    background-color: #6f3ec3;
+}
+
+.have-submit-button:hover {
+    background-color: #6f3ec3;
+}
+
+.free-link:hover,
+.website-link:hover {
+    text-decoration: none;
+    color: lightslategray;
+}
+
+/* About Hover Effect  */
+#about-section .freepik-link:hover {
+    color: #6f3ec3;
+}
+#about-section .our-button:hover{
+    border-color: black;
+}
+
+#contact-section .freepik-link:hover{
+    color: #6f3ec3;
+}
